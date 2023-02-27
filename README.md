@@ -1,0 +1,2 @@
+# Rajupractice
+DEVOPS AND MLOPS PROJECT
